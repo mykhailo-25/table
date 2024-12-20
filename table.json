@@ -1,9 +1,10 @@
 {
   "Аркуш1": {
     "1": {
+      "Object id": "0001",
       "Latitude": "49.99166",
       "Longitude": "36.22884",
-      "Number of photos": 20,
+      "Number of photos": "20",
       "Title": "Покровський собор",
       "Address": "вулиця Університетська, 8",
       "Brief desc": "Найстаріша збережена будівля у місті",
@@ -12,9 +13,10 @@
       "Storage": "images-part1"
     },
     "2": {
+      "Object id": "0002",
       "Latitude": "49.98986",
       "Longitude": "36.23065",
-      "Number of photos": 20,
+      "Number of photos": "20",
       "Title": "Успенський собор і дзвіниця",
       "Address": "вулиця Університетська, 11",
       "Brief desc": "Одна з найвизначніших будівель міста",
@@ -23,9 +25,10 @@
       "Storage": "images-part1"
     },
     "3": {
+      "Object id": "0003",
       "Latitude": "49.99637",
       "Longitude": "36.23522",
-      "Number of photos": 7,
+      "Number of photos": "7",
       "Title": "Собор Успіння Пресвятої Діви Марії",
       "Address": "вулиця Гоголя 4",
       "Brief desc": "Старий римсько-католицький костел",
