@@ -1,6 +1,6 @@
 [
     {
-        "objectId": "1",
+        "objectId": "0001",
         "latitude": "49.9935",
         "longitude": "36.2304",
         "numberOfPhotos": 3,
@@ -9,10 +9,10 @@
         "briefDesc": "Відомий монумент",
         "characteristics": "Розташований у центрі міста",
         "text": "Детальний опис пам'ятника.",
-        "storage": "images"
+        "storage": "images-part1"
     },
     {
-        "objectId": "2",
+        "objectId": "0002",
         "latitude": "49.994",
         "longitude": "36.234",
         "numberOfPhotos": 2,
@@ -21,6 +21,6 @@
         "briefDesc": "Театр опери та балету",
         "characteristics": "Побудований у ХХ столітті",
         "text": "Детальний опис театру.",
-        "storage": "images"
+        "storage": "images-part1"
     }
 ]
