@@ -1,0 +1,11 @@
+<photoDescriptions>
+    <object id="0001">
+        <photoDesc index="1">Опис 1</photoDesc>
+        <photoDesc index="2">Опис 2</photoDesc>
+        <photoDesc index="3">Опис 3</photoDesc>
+    </object>
+    <object id="0002">
+        <photoDesc index="1">Опис 1</photoDesc>
+        <photoDesc index="2">Опис 2</photoDesc>
+    </object>
+</photoDescriptions>
